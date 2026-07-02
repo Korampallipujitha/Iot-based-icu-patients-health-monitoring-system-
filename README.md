@@ -1,0 +1,2 @@
+# Iot-based-icu-patients-health-monitoring-system-
+This project is an IoT-based health monitoring solution designed to enhance patient safety in intensive care environments.By integrating medical sensors with an embedded system,the project enables realtime tracking of critical patient vitals,ensuring that healthcare providers can monitor patients remotely,respond immediately to emergency situations
